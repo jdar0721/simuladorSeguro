@@ -1,0 +1,14 @@
+.navbar{
+    margin-top: -60px;
+}
+  
+  .navbar-brand {
+    display: flex;
+    align-items: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;  
+  }
+  
+  .navbar-brand img {
+    margin-right: 30px; 
+}
